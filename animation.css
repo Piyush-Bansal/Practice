@@ -1,0 +1,17 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.sqr {
+  height: 20vh;
+  width: 20vh;
+  background: coral;
+  margin: 10vw;
+}
+
+section {
+  width: 100vw;
+  height: 100vh;
+}
